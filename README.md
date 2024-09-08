@@ -16,7 +16,7 @@ Make sure you have the following installed :
 Clone the repository :
 
 ```sh
-git clone https://github.com/NicolasRoehm/angular-boilerplate.git
+git clone https://github.com/smhemel/angular-boilerplate.git
 cd angular-boilerplate
 npm install
 ```
